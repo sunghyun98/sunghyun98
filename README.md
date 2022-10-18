@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=성현's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=똥글's%20world&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=sunghyun98)](https://github.com/sunghyun9)
 
