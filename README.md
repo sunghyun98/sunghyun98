@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun98)](https://github.com/sunghyun98/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun98 &layout=compact)](https://github.com/sunghyun98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun98&layout=compact)](https://github.com/sunghyun98/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
@@ -23,7 +23,7 @@
 * 1번
 * 2번
 
-제 [블로그](https://wwww.naver.com)입니다
+제 [블로그](https://www.naver.com)입니다
 
 
 
