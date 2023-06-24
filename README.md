@@ -20,7 +20,7 @@
 ### Hi there 👋
 ---
 
-제 [블로그](https://www.naver.com)입니다
+제 [블로그](https://best-ddongle.tistory.com/)입니다
 
 
 
